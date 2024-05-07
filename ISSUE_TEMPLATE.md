@@ -1,9 +1,9 @@
-Before opening a new issue, please make sure that what you are about to report has not been reported already or is not included on the FAQ page. If not, use the following template for reporting.
+Перед открытием новой проблемы, пожалуйста, убедитесь, что то, что вы собираетесь сообщить, еще не сообщалось или не включено на странице часто задаваемых вопросов.Если нет, используйте следующий шаблон для отчетности.
 
-Please keep in mind that our developers will prioritize your issue if you provide a detailed and extensive description.
+Пожалуйста, имейте в виду, что наши разработчики будут расставлять приоритеты в вашей проблеме, если вы предоставите подробное и обширное описание.
 
-**Version**: Use `git show | grep commit` command and paste here the output.
+**Version**: Использовать `git show | grep commit` Команда и вставьте здесь выход.
 
-**Description**: Give a more analytical description here. Let us know how we can reproduce the reported issue. Detail the characteristics of your machine (e.g. Linux distribution and wireless card capabilities) and of the victim devices too (e.g. OS or web browser) if possible. The output of the `iw list` and `iwconfig` commands may also be helpful here.
+**Description**: Дайте более аналитическое описание здесь.Дайте нам знать, как мы можем воспроизвести зарегистрированную проблему.Подробно подробно описывает характеристики вашей машины (например, возможности дистрибуции Linux и беспроводной карты) и устройств жертвы (например, ОС или веб -браузер), если это возможно. The output of the `iw list` and `iwconfig` commands may also be helpful here.
 
 **Script output**: Paste the output of the tool, including any stack traces.
